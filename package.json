@@ -1,0 +1,10 @@
+{
+  "private": false,
+  "name": "18app-php-sdk",
+  "version": "1.0.0",
+  "description": "PHP SDK for developing merchant applications which accept 18app vouchers￼",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ste80pa/18app-php-sdk/"
+  }
+}
